@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 shap
 xgboost
+imblearn
+scipy
+optuna
