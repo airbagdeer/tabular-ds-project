@@ -1,10 +1,7 @@
-numpy
-pandas
+scikit-learn
+imbalanced-learn
 matplotlib
 seaborn
-scikit-learn
 shap
-xgboost
-imblearn
-scipy
 optuna
+xgboost
