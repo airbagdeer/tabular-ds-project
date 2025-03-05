@@ -1,0 +1,137 @@
+Country Name,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Region,IncomeGroup,Year,"Birth rate, crude (per 1,000 people)","Death rate, crude (per 1,000 people)",Electric power consumption (kWh per capita),GDP (USD),GDP per capita (USD),Individuals using the Internet (% of population),"Infant mortality rate (per 1,000 live births)",Life expectancy at birth (years),Population density (people per sq. km of land area),Unemployment (% of total labor force) (modeled ILO estimate)
+Afghanistan,4,0.332,0.537,0.255,0.085,0.191,0.036,South Asia,Low income,2018,,,,19363000000.0,520.897,,47.9,,56.9378,1.542
+Albania,5,0.916,0.817,0.79,0.419,0.149,0.032,Europe & Central Asia,Upper middle income,2018,,,,15058900000.0,5253.63,,7.8,,104.612,13.898
+Algeria,5,0.979,1.154,0.687,0.077,0.055,0.135,Middle East & North Africa,Upper middle income,2018,,,,181000000000.0,4278.85,59.5797,20.1,,17.7301,12.145
+Angola,4,0.73,1.125,0.269,0.0,0.079,0.061,Sub-Saharan Africa,Upper middle income,2018,,,,106000000000.0,3432.39,,51.6,,24.7131,7.253
+Argentina,6,1.073,1.468,0.744,0.57,0.062,0.054,Latin America & Caribbean,High income: nonOECD,2018,,,,518000000000.0,11652.6,,8.8,,16.2585,9.483
+Armenia,4,0.816,0.99,0.666,0.26,0.077,0.028,Europe & Central Asia,Lower middle income,2018,,,,12433100000.0,4212.07,,11.0,,103.68,17.712
+Australia,7,1.34,1.573,0.91,0.647,0.361,0.302,East Asia & Pacific,High income: OECD,2018,,,,1430000000000.0,57305.3,,3.1,,3.24913,5.387
+Austria,7,1.341,1.504,0.891,0.617,0.242,0.224,Europe & Central Asia,High income: OECD,2018,,,,456000000000.0,51512.9,87.7105,2.9,,107.207,4.786
+Azerbaijan,5,1.024,1.161,0.603,0.43,0.031,0.176,Europe & Central Asia,Upper middle income,2018,,,,46939500000.0,4721.18,79.8,19.2,,120.265,5.22
+Bahrain,6,1.338,1.366,0.698,0.594,0.243,0.123,Middle East & North Africa,High income: nonOECD,2018,,,,37746200000.0,24050.8,98.6434,6.1,,2017.27,0.962
+Bangladesh,4,0.532,0.85,0.579,0.58,0.153,0.144,South Asia,Lower middle income,2018,,,,274000000000.0,1698.26,,25.1,,1239.58,4.308
+Belarus,5,1.039,1.498,0.7,0.307,0.101,0.154,Europe & Central Asia,Upper middle income,2018,,,,59662500000.0,6289.94,79.1299,2.6,,46.7288,5.708
+Belgium,7,1.324,1.483,0.894,0.583,0.188,0.24,Europe & Central Asia,High income: OECD,2018,,,,532000000000.0,46556.1,88.6551,2.9,,377.215,6.323
+Belize,6,0.807,1.101,0.474,0.593,0.183,0.089,Latin America & Caribbean,Upper middle income,2018,,,,1925000000.0,5025.18,,11.2,,16.794,9.368
+Benin,4,0.378,0.372,0.24,0.44,0.163,0.067,Sub-Saharan Africa,Low income,2018,,,,10359000000.0,901.954,,60.5,,101.854,2.125
+Bhutan,5,0.796,1.335,0.527,0.541,0.364,0.171,South Asia,Lower middle income,2018,,,,2534970000.0,3360.27,,24.8,,19.7775,2.197
+Bolivia,6,0.751,1.223,0.508,0.606,0.141,0.054,Latin America & Caribbean,Lower middle income,2018,,,,40287600000.0,3548.59,,21.8,,10.4801,3.258
+Bosnia and Herzegovina,5,0.915,1.078,0.758,0.28,0.216,0.0,Europe & Central Asia,Upper middle income,2018,,,,19781800000.0,5951.32,70.1201,5.0,,64.9205,20.839
+Botswana,4,1.017,1.174,0.417,0.557,0.042,0.092,Sub-Saharan Africa,Upper middle income,2018,,,,18616000000.0,8258.64,,30.0,,3.97742,17.941
+Brazil,6,0.986,1.474,0.675,0.493,0.11,0.088,Latin America & Caribbean,Upper middle income,2018,,,,1870000000000.0,8920.76,,12.8,,25.0617,12.544
+Bulgaria,5,1.054,1.515,0.712,0.359,0.064,0.009,Europe & Central Asia,Upper middle income,2018,,,,65133000000.0,9272.63,64.782,5.9,,64.7035,5.261
+Burkina Faso,4,0.314,1.097,0.254,0.312,0.175,0.128,Sub-Saharan Africa,Low income,2018,,,,14441800000.0,731.172,,49.0,,72.1913,6.059
+Burundi,3,0.091,0.627,0.145,0.065,0.149,0.076,Sub-Saharan Africa,Low income,2018,,,,3078030000.0,275.43,,41.0,,435.178,1.528
+Cambodia,4,0.549,1.088,0.457,0.696,0.256,0.065,East Asia & Pacific,Low income,2018,,,,24571800000.0,1512.13,40.0,24.0,,92.0564,1.048
+Cameroon,5,0.535,0.891,0.182,0.454,0.183,0.043,Sub-Saharan Africa,Lower middle income,2018,,,,38502100000.0,1526.88,,50.6,,53.344,3.361
+Canada,7,1.33,1.532,0.896,0.653,0.321,0.291,North America,High income: OECD,2018,,,,1710000000000.0,46210.5,,4.3,,4.07531,5.92
+Central African Republic,3,0.024,0.0,0.01,0.305,0.218,0.038,Sub-Saharan Africa,Low income,2018,,,,2379720000.0,509.971,,84.5,,7.49041,6.483
+Chad,4,0.358,0.907,0.053,0.189,0.181,0.06,Sub-Saharan Africa,Low income,2018,,,,11302500000.0,730.245,,71.4,,12.2917,2.229
+Chile,6,1.131,1.331,0.808,0.431,0.197,0.061,Latin America & Caribbean,High income: OECD,2018,,,,298000000000.0,15923.4,,6.2,,25.1894,7.223
+China,5,0.989,1.142,0.799,0.597,0.029,0.103,East Asia & Pacific,Upper middle income,2018,,,,13600000000000.0,9770.85,,7.4,,148.349,4.417
+Colombia,6,0.96,1.439,0.635,0.531,0.099,0.039,Latin America & Caribbean,Upper middle income,2018,,,,330000000000.0,6651.29,,12.2,,44.7487,9.093
+Costa Rica,7,1.01,1.459,0.817,0.632,0.143,0.101,Latin America & Caribbean,Upper middle income,2018,,,,60126000000.0,12026.5,74.0868,7.6,,97.9131,8.128
+Croatia,5,1.115,1.161,0.737,0.38,0.12,0.039,Europe & Central Asia,High income: nonOECD,2018,,,,60805700000.0,14869.1,72.6888,4.0,,73.0772,8.85
+Cyprus,6,1.229,1.191,0.909,0.423,0.202,0.035,Europe & Central Asia,High income: nonOECD,2018,,,,24469800000.0,28159.3,84.4336,1.9,,128.708,8.109
+Czech Republic,7,1.233,1.489,0.854,0.543,0.064,0.034,Europe & Central Asia,High income: OECD,2018,,,,245000000000.0,23078.6,80.6882,2.7,,137.603,2.397
+Denmark,8,1.351,1.59,0.868,0.683,0.284,0.408,Europe & Central Asia,High income: OECD,2018,,,,352000000000.0,60726.5,97.6443,3.6,,138.067,4.975
+Dominican Republic,5,0.982,1.441,0.614,0.578,0.12,0.106,Latin America & Caribbean,Upper middle income,2018,,,,81298600000.0,7650.07,74.8243,24.1,,219.979,5.829
+Ecuador,6,0.889,1.33,0.736,0.556,0.114,0.12,Latin America & Caribbean,Upper middle income,2018,,,,108000000000.0,6344.87,,12.2,,68.7887,3.91
+El Salvador,6,0.806,1.231,0.639,0.461,0.065,0.082,Latin America & Caribbean,Lower middle income,2018,,,,26057000000.0,4058.24,,11.8,,309.881,4.39
+Estonia,6,1.2,1.532,0.737,0.553,0.086,0.174,Europe & Central Asia,High income: OECD,2018,,,,30284900000.0,22927.7,89.357,2.1,,30.3861,5.508
+Ethiopia,4,0.308,0.95,0.391,0.452,0.22,0.146,Sub-Saharan Africa,Low income,2018,,,,84355500000.0,772.312,,39.1,,109.225,1.809
+Finland,8,1.305,1.592,0.874,0.681,0.202,0.393,Europe & Central Asia,High income: OECD,2018,,,,274000000000.0,49648.1,88.89,1.4,,18.1569,7.755
+France,6,1.293,1.466,0.908,0.52,0.098,0.176,Europe & Central Asia,High income: OECD,2018,,,,2780000000000.0,41463.6,82.0435,3.4,,122.338,9.18
+Gabon,5,1.036,1.164,0.404,0.356,0.032,0.052,Sub-Saharan Africa,Upper middle income,2018,,,,17017400000.0,8029.82,,32.7,,8.22476,19.488
+Georgia,4,0.853,0.592,0.643,0.375,0.038,0.215,Europe & Central Asia,Lower middle income,2018,,,,16209800000.0,4344.63,63.9686,8.7,,65.2752,14.106
+Germany,7,1.34,1.474,0.861,0.586,0.273,0.28,Europe & Central Asia,High income: OECD,2018,,,,4000000000000.0,48195.6,89.7391,3.1,,237.371,3.425
+Ghana,5,0.592,0.896,0.337,0.499,0.212,0.029,Sub-Saharan Africa,Lower middle income,2018,,,,65556500000.0,2202.31,,34.9,,130.821,6.71
+Greece,5,1.154,1.202,0.879,0.131,0.0,0.044,Europe & Central Asia,High income: OECD,2018,,,,218000000000.0,20324.3,72.9521,3.6,,83.2247,19.207
+Guatemala,6,0.781,1.268,0.608,0.604,0.179,0.071,Latin America & Caribbean,Lower middle income,2018,,,,78460400000.0,4549.01,,22.1,,160.954,2.727
+Guinea,4,0.344,0.792,0.211,0.394,0.185,0.094,Sub-Saharan Africa,Low income,2018,,,,10989800000.0,885.251,,64.9,,50.5222,3.607
+Haiti,4,0.315,0.714,0.289,0.025,0.392,0.104,Latin America & Caribbean,Low income,2018,,,,9658080000.0,868.285,32.4736,49.5,,403.599,13.526
+Honduras,6,0.62,1.205,0.622,0.459,0.197,0.074,Latin America & Caribbean,Lower middle income,2018,,,,23803200000.0,2482.73,,15.1,,85.687,4.076
+Hungary,6,1.171,1.401,0.732,0.259,0.061,0.022,Europe & Central Asia,High income: OECD,2018,,,,156000000000.0,15938.8,76.0744,3.6,,107.907,3.663
+Iceland,7,1.343,1.644,0.914,0.677,0.353,0.138,Europe & Central Asia,High income: OECD,2018,,,,25882200000.0,73201.7,99.011,1.5,,3.52692,2.918
+India,4,0.721,0.747,0.485,0.539,0.172,0.093,South Asia,Lower middle income,2018,,,,2730000000000.0,2015.59,,29.9,,454.938,2.551
+Indonesia,5,0.899,1.215,0.522,0.538,0.484,0.018,East Asia & Pacific,Lower middle income,2018,,,,1040000000000.0,3893.6,39.7875,21.1,,147.752,4.3
+Iraq,4,1.01,0.971,0.536,0.304,0.148,0.095,Middle East & North Africa,Upper middle income,2018,,,,226000000000.0,5878.04,,22.5,,88.5306,7.928
+Ireland,7,1.448,1.583,0.876,0.614,0.307,0.306,Europe & Central Asia,High income: OECD,2018,,,,382000000000.0,78806.4,84.5223,3.1,,70.453,5.691
+Israel,7,1.301,1.559,0.883,0.533,0.354,0.272,Middle East & North Africa,High income: OECD,2018,,,,370000000000.0,41614.0,,3.0,,410.527,3.95
+Italy,6,1.264,1.501,0.946,0.281,0.137,0.028,Europe & Central Asia,High income: OECD,2018,,,,2070000000000.0,34318.4,74.3872,2.6,,205.451,10.205
+Jamaica,6,0.819,1.493,0.693,0.575,0.096,0.031,Latin America & Caribbean,Upper middle income,2018,,,,15717900000.0,5355.58,,12.4,,270.993,9.445
+Japan,6,1.294,1.462,0.988,0.553,0.079,0.15,East Asia & Pacific,High income: OECD,2018,,,,4970000000000.0,39286.7,,1.8,,347.073,2.445
+Jordan,5,0.822,1.265,0.645,0.468,0.13,0.134,Middle East & North Africa,Upper middle income,2018,,,,42290800000.0,4247.77,,13.9,,112.142,15.025
+Kazakhstan,6,1.143,1.516,0.631,0.454,0.148,0.121,Europe & Central Asia,Upper middle income,2018,,,,171000000000.0,9331.05,78.9039,8.8,,6.76983,4.885
+Kenya,4,0.493,1.048,0.454,0.504,0.352,0.055,Sub-Saharan Africa,Lower middle income,2018,,,,87908300000.0,1710.51,,30.6,,90.2994,9.313
+Kuwait,6,1.474,1.301,0.675,0.554,0.167,0.106,Middle East & North Africa,High income: nonOECD,2018,,,,142000000000.0,34244.0,99.6,6.7,,232.172,2.076
+Latvia,6,1.148,1.454,0.671,0.363,0.092,0.066,Europe & Central Asia,High income: nonOECD,2018,,,,34849100000.0,18088.9,83.5772,3.3,,30.9833,7.857
+Lebanon,5,0.965,1.179,0.785,0.503,0.214,0.136,Middle East & North Africa,Upper middle income,2018,,,,56639200000.0,8269.79,,6.4,,669.494,6.167
+Lesotho,4,0.472,1.215,0.079,0.423,0.116,0.112,Sub-Saharan Africa,Lower middle income,2018,,,,2791760000.0,1324.28,,65.7,,69.4378,23.596
+Liberia,3,0.076,0.858,0.267,0.419,0.206,0.03,Sub-Saharan Africa,Low income,2018,,,,3249000000.0,674.209,,53.5,,50.0309,2.033
+Libya,6,0.985,1.35,0.553,0.496,0.116,0.148,Middle East & North Africa,Upper middle income,2018,,,,48319600000.0,7235.03,,10.2,,3.79563,17.287
+Lithuania,6,1.197,1.527,0.716,0.35,0.026,0.006,Europe & Central Asia,High income: nonOECD,2018,,,,53251400000.0,19089.7,79.7226,3.3,,44.5314,6.007
+Luxembourg,7,1.576,1.52,0.896,0.632,0.196,0.321,Europe & Central Asia,High income: OECD,2018,,,,69487900000.0,114340.0,97.0613,1.9,,250.094,5.47
+Madagascar,4,0.262,0.908,0.402,0.221,0.155,0.049,Sub-Saharan Africa,Low income,2018,,,,12100500000.0,460.753,,38.2,,45.1399,1.659
+Malawi,4,0.186,0.541,0.306,0.531,0.21,0.08,Sub-Saharan Africa,Low income,2018,,,,7064970000.0,389.398,,35.3,,192.441,5.43
+Malaysia,6,1.161,1.258,0.669,0.356,0.311,0.059,East Asia & Pacific,Upper middle income,2018,,,,354000000000.0,11239.0,81.2017,6.7,,95.9628,3.36
+Mali,4,0.37,1.233,0.152,0.367,0.139,0.056,Sub-Saharan Africa,Low income,2018,,,,17196700000.0,901.403,,62.0,,15.635,9.569
+Malta,7,1.27,1.525,0.884,0.645,0.376,0.142,Middle East & North Africa,High income: nonOECD,2018,,,,14542000000.0,30074.7,81.4031,6.1,,1511.03,4.583
+Mauritania,4,0.557,1.245,0.292,0.129,0.134,0.093,Sub-Saharan Africa,Lower middle income,2018,,,,5365870000.0,1218.6,,51.5,,4.27216,10.305
+Mauritius,6,1.09,1.387,0.684,0.584,0.245,0.05,Sub-Saharan Africa,Upper middle income,2018,,,,14220300000.0,11238.7,58.5962,13.6,,623.302,6.867
+Mexico,6,1.038,1.252,0.761,0.479,0.069,0.095,Latin America & Caribbean,Upper middle income,2018,,,,1220000000000.0,9698.08,65.7726,11.0,,64.9146,3.322
+Moldova,6,0.657,1.301,0.62,0.232,0.171,0.0,Europe & Central Asia,Lower middle income,2018,,,,11309100000.0,3189.36,,13.6,,123.52,3.411
+Mongolia,5,0.914,1.517,0.575,0.395,0.253,0.032,East Asia & Pacific,Upper middle income,2018,,,,13009600000.0,4103.7,,14.0,,2.04061,6.32
+Montenegro,5,1.017,1.279,0.729,0.259,0.111,0.081,Europe & Central Asia,Upper middle income,2018,,,,5452170000.0,8760.69,71.5173,2.3,,46.271,15.462
+Morocco,5,0.779,0.797,0.669,0.46,0.026,0.074,Middle East & North Africa,Lower middle income,2018,,,,118000000000.0,3237.88,64.8039,19.2,,80.7285,9.04
+Mozambique,4,0.198,0.902,0.173,0.531,0.206,0.158,Sub-Saharan Africa,Low income,2018,,,,14458000000.0,490.168,,54.0,,37.5085,3.172
+Myanmar,4,0.682,1.174,0.429,0.58,0.598,0.178,East Asia & Pacific,Lower middle income,2018,,,,71214800000.0,1325.95,,36.8,,82.2386,1.564
+Namibia,4,0.874,1.281,0.365,0.519,0.051,0.064,Sub-Saharan Africa,Upper middle income,2018,,,,14521700000.0,5931.45,,29.0,,2.97375,23.095
+Nepal,5,0.425,1.228,0.539,0.526,0.302,0.078,South Asia,Low income,2018,,,,28812500000.0,1025.8,,26.7,,195.939,1.264
+Netherlands,7,1.361,1.488,0.878,0.638,0.333,0.295,Europe & Central Asia,High income: OECD,2018,,,,914000000000.0,53024.1,94.7121,3.3,,511.458,3.88
+New Zealand,7,1.268,1.601,0.876,0.669,0.365,0.389,East Asia & Pacific,High income: OECD,2018,,,,205000000000.0,41966.0,,4.7,,18.5542,4.522
+Nicaragua,6,0.668,1.319,0.7,0.527,0.208,0.128,Latin America & Caribbean,Lower middle income,2018,,,,13117900000.0,2028.9,,15.7,,53.727,4.479
+Niger,4,0.131,0.867,0.221,0.39,0.175,0.099,Sub-Saharan Africa,Low income,2018,,,,9239510000.0,411.689,5.25049,48.0,,17.7177,0.273
+Nigeria,5,0.689,1.172,0.048,0.462,0.201,0.032,Sub-Saharan Africa,Lower middle income,2018,,,,397000000000.0,2028.18,,75.7,,215.065,6.026
+Norway,8,1.456,1.582,0.861,0.686,0.286,0.34,Europe & Central Asia,High income: OECD,2018,,,,435000000000.0,81807.2,96.4917,2.1,,14.5549,3.919
+Pakistan,5,0.652,0.81,0.424,0.334,0.216,0.113,South Asia,Lower middle income,2018,,,,313000000000.0,1472.89,,57.2,,275.289,3.038
+Panama,6,1.112,1.438,0.759,0.597,0.125,0.063,Latin America & Caribbean,Upper middle income,2018,,,,65055100000.0,15575.1,,13.1,,56.1861,3.922
+Paraguay,6,0.835,1.522,0.615,0.541,0.162,0.074,Latin America & Caribbean,Upper middle income,2018,,,,40842300000.0,5871.47,64.9935,17.2,,17.5084,4.712
+Peru,6,0.934,1.249,0.674,0.53,0.092,0.034,Latin America & Caribbean,Upper middle income,2018,,,,222000000000.0,6947.26,52.5403,11.1,,24.9916,2.844
+Philippines,6,0.775,1.312,0.513,0.643,0.12,0.105,East Asia & Pacific,Lower middle income,2018,,,,331000000000.0,3102.71,,22.5,,357.688,2.515
+Poland,6,1.176,1.448,0.781,0.546,0.108,0.064,Europe & Central Asia,High income: OECD,2018,,,,586000000000.0,15424.0,77.5417,3.8,,124.036,3.673
+Portugal,5,1.188,1.429,0.884,0.562,0.055,0.017,Europe & Central Asia,High income: OECD,2018,,,,238000000000.0,23145.7,74.661,3.1,,112.239,6.86
+Qatar,6,1.649,1.303,0.748,0.654,0.256,0.171,Middle East & North Africa,High income: nonOECD,2018,,,,192000000000.0,69026.5,99.6528,5.8,,239.593,0.142
+Romania,6,1.116,1.219,0.726,0.528,0.088,0.001,Europe & Central Asia,Upper middle income,2018,,,,240000000000.0,12301.2,70.6813,6.1,,84.6398,4.295
+Rwanda,3,0.332,0.896,0.4,0.636,0.2,0.444,Sub-Saharan Africa,Low income,2018,,,,9509000000.0,772.968,,27.0,,498.66,0.971
+Saudi Arabia,6,1.379,1.331,0.633,0.509,0.098,0.127,Middle East & North Africa,High income: nonOECD,2018,,,,782000000000.0,23219.1,93.31,6.0,,15.6767,5.919
+Senegal,5,0.429,1.117,0.433,0.406,0.138,0.082,Sub-Saharan Africa,Lower middle income,2018,,,,24129600000.0,1521.95,,31.8,,82.3475,6.464
+Serbia,5,0.975,1.369,0.685,0.288,0.134,0.043,Europe & Central Asia,Upper middle income,2018,,,,50508400000.0,7234.0,73.3607,4.8,,79.8317,13.51
+Sierra Leone,5,0.256,0.813,0.0,0.355,0.238,0.053,Sub-Saharan Africa,Low income,2018,,,,3999950000.0,522.858,,78.5,,105.987,4.313
+Singapore,6,1.529,1.451,1.008,0.631,0.261,0.457,East Asia & Pacific,High income: nonOECD,2018,,,,364000000000.0,64581.9,88.1656,2.3,,7953.0,3.768
+Slovenia,6,1.219,1.506,0.856,0.633,0.16,0.051,Europe & Central Asia,High income: OECD,2018,,,,54235500000.0,26234.0,79.75,1.7,,102.64,5.51
+Somalia,5,0.0,0.712,0.115,0.674,0.238,0.282,Sub-Saharan Africa,Low income,2018,,,,4721000000.0,314.562,,76.6,,23.9235,13.956
+South Africa,5,0.94,1.41,0.33,0.516,0.103,0.056,Sub-Saharan Africa,Upper middle income,2018,,,,368000000000.0,6374.02,,28.5,,47.6301,26.958
+South Sudan,3,0.337,0.608,0.177,0.112,0.224,0.106,Sub-Saharan Africa,Low income,2018,,,,,,,63.7,,,12.696
+Spain,6,1.251,1.538,0.965,0.449,0.142,0.074,Europe & Central Asia,High income: OECD,2018,,,,1430000000000.0,30523.9,86.1072,2.5,,93.5291,15.487
+Sri Lanka,4,0.918,1.314,0.672,0.585,0.307,0.05,South Asia,Lower middle income,2018,,,,88900800000.0,4102.48,,6.4,,345.559,4.399
+Sudan,4,0.605,1.24,0.312,0.016,0.134,0.082,Sub-Saharan Africa,Lower middle income,2018,,,0.0,40851500000.0,977.274,,42.1,,,12.876
+Sweden,7,1.355,1.501,0.913,0.659,0.285,0.383,Europe & Central Asia,High income: OECD,2018,,,,551000000000.0,54112.0,92.1417,2.2,,25.001,6.444
+Switzerland,7,1.42,1.549,0.927,0.66,0.256,0.357,Europe & Central Asia,High income: OECD,2018,,,,706000000000.0,82838.9,,3.7,,215.521,4.883
+Tajikistan,5,0.474,1.166,0.598,0.292,0.187,0.034,Europe & Central Asia,Lower middle income,2018,,,,7522950000.0,826.622,,30.4,,65.5727,10.922
+Tanzania,3,0.455,0.991,0.381,0.481,0.27,0.097,Sub-Saharan Africa,Low income,2018,,,,57437100000.0,1050.68,,37.6,,63.5791,1.932
+Thailand,6,1.016,1.417,0.707,0.637,0.364,0.029,East Asia & Pacific,Upper middle income,2018,,,,505000000000.0,7273.56,56.8175,7.8,,135.897,0.665
+Togo,4,0.259,0.474,0.253,0.434,0.158,0.101,Sub-Saharan Africa,Low income,2018,,,,5300210000.0,671.841,,47.4,,145.047,1.668
+Tunisia,5,0.9,0.906,0.69,0.271,0.04,0.063,Middle East & North Africa,Upper middle income,2018,,,,39860700000.0,3446.61,64.1908,14.6,,74.4413,15.478
+Turkey,5,1.148,1.38,0.686,0.324,0.106,0.109,Europe & Central Asia,Upper middle income,2018,,,,767000000000.0,9311.37,71.0428,9.1,,106.96,10.895
+Turkmenistan,6,1.016,1.533,0.517,0.417,0.199,0.037,Europe & Central Asia,Upper middle income,2018,,,,40761100000.0,6966.64,,39.3,,12.4506,3.783
+Uganda,4,0.322,1.09,0.237,0.45,0.259,0.061,Sub-Saharan Africa,Low income,2018,,,,27476900000.0,643.14,,33.8,,213.062,1.742
+Ukraine,4,0.793,1.413,0.609,0.163,0.187,0.011,Europe & Central Asia,Lower middle income,2018,,,,131000000000.0,3095.17,,7.5,,77.0297,9.381
+United Arab Emirates,7,2.096,0.776,0.67,0.284,0.186,,Middle East & North Africa,High income: nonOECD,2018,,,,414000000000.0,43004.9,98.45,6.5,,135.609,2.575
+United Kingdom,7,1.244,1.433,0.888,0.464,0.262,0.082,Europe & Central Asia,High income: OECD,2018,,,,2830000000000.0,42491.4,94.8967,3.6,,274.827,3.954
+United States,7,1.398,1.471,0.819,0.547,0.291,0.133,North America,High income: OECD,2018,,,,20500000000000.0,62641.0,,5.6,,35.7661,3.933
+Uruguay,6,1.093,1.459,0.771,0.625,0.13,0.155,Latin America & Caribbean,High income: nonOECD,2018,,,,59596900000.0,17278.0,,6.4,,19.708,7.961
+Uzbekistan,6,0.719,1.584,0.605,0.724,0.328,0.259,Europe & Central Asia,Lower middle income,2018,,,,50499900000.0,1532.37,,19.1,,77.4692,5.223
+Vietnam,5,0.715,1.365,0.702,0.618,0.177,0.079,East Asia & Pacific,Lower middle income,2018,,,,245000000000.0,2563.82,70.3496,16.5,,308.125,1.891
+Zambia,4,0.562,1.047,0.295,0.503,0.221,0.082,Sub-Saharan Africa,Lower middle income,2018,,,,26720100000.0,1539.9,14.3,40.4,,23.3415,7.209
+Zimbabwe,4,0.357,1.094,0.248,0.406,0.132,0.099,Sub-Saharan Africa,Low income,2018,,,,31000500000.0,2147.0,,33.9,,37.3246,4.915
