@@ -1,0 +1,69 @@
+year,category,prizeShare,name,gender,born,bornCountry,organizationName,organizationCountry
+2023,economics,1,Claudia Goldin,female,1946-00-00,USA,Harvard University,USA
+2023,peace,1,Narges Mohammadi,female,21-04-1972,Iran,,
+2023,literature,1,Jon Fosse,male,29-09-1959,Norway,,
+2023,chemistry,3,Moungi Bawendi,male,1961-00-00,France,Massachusetts Institute of Technology (MIT),USA
+2023,physics,3,Ferenc Krausz,male,17-05-1962,Hungary,Max Planck Institute of Quantum Optics,Germany
+2023,physics,3,Pierre Agostini,male,23-07-1941,Tunisia,The Ohio State University,USA
+2023,medicine,2,Drew Weissman,male,7/9/1959,USA,Penn Institute for RNA Innovations University of Pennsylvania,USA
+2022,physics,3,Alain Aspect,male,15-06-1947,France,Institut d'Optique Graduate School - Universite Paris-Saclay,France
+2022,economics,3,Douglas Diamond,male,25-10-1953,USA,University of Chicago,USA
+2022,economics,3,Ben Bernanke,male,13-12-1953,USA,The Brookings Institution,USA
+2022,peace,3,Ales Bialiatski,male,25-09-1962,Russia,,
+2022,literature,1,Annie Ernaux,female,1/9/1940,France,,
+2022,chemistry,3,Carolyn Bertozzi,female,10/10/1966,USA,Stanford University,USA
+2022,physics,3,Anton Zeilinger,male,20-05-1945,Austria,University of Vienna,Austria
+2022,physics,3,John Clauser,male,1/12/1942,USA,J.F. Clauser & Assoc.,USA
+2021,chemistry,2,Benjamin List,male,11/1/1968,Germany,Max Planck Institute for Coal Research,Germany
+2021,economics,4,Guido Imbens,male,3/9/1963,the Netherlands,Stanford University,USA
+2021,economics,4,Joshua Angrist,male,18-09-1960,USA,Massachusetts Institute of Technology (MIT),USA
+2021,economics,2,David Card,male,1956-00-00,Canada,University of California,USA
+2021,peace,2,Dmitry Muratov,male,1961-00-00,Russia,,
+2021,peace,2,Maria Ressa,female,2/10/1963,Philippines,,
+2021,literature,1,Abdulrazak Gurnah,male,1948-00-00,Tanzania,,
+2021,chemistry,2,David MacMillan,male,16-03-1968,United Kingdom,Princeton University,USA
+2021,physics,2,Giorgio Parisi,male,4/8/1948,Italy,Sapienza University of Rome,Italy
+2021,physics,4,Klaus Hasselmann,male,25-10-1931,Germany,Max Planck Institute for Meteorology,Germany
+2021,physics,4,Syukuro Manabe,male,21-09-1931,Japan,Princeton University,USA
+2021,medicine,2,Ardem Patapoutian,male,1967-00-00,Lebanon,Scripps Research,USA
+2021,medicine,2,David Julius,male,4/11/1955,USA,University of California,USA
+2020,economics,2,Paul Milgrom,male,20-04-1948,USA,Stanford University,USA
+2020,chemistry,2,Emmanuelle Charpentier,female,11/12/1968,France,Max Planck Unit for the Science of Pathogens,Germany
+2020,physics,4,Reinhard Genzel,male,24-03-1952,Germany,Max Planck Institute for Extraterrestrial Physics,Germany
+2020,physics,2,Roger Penrose,male,8/8/1931,United Kingdom,University of Oxford,United Kingdom
+2020,medicine,3,Michael Houghton,male,1949-00-00,United Kingdom,University of Alberta,Canada
+2019,economics,3,Michael Kremer,male,12/11/1964,USA,Harvard University,USA
+2019,economics,3,Esther Duflo,female,25-10-1972,France,Massachusetts Institute of Technology (MIT),USA
+2019,economics,3,Abhijit Banerjee,male,21-02-1961,India,Massachusetts Institute of Technology (MIT),USA
+2019,literature,1,Peter Handke,male,6/12/1942,Austria,,
+2019,chemistry,3,Akira Yoshino,male,30-01-1948,Japan,Asahi Kasei Corporation,Japan
+2019,chemistry,3,M. Stanley Whittingham,male,22-12-1941,United Kingdom,Binghamton University State University of New York,USA
+2019,physics,4,Didier Queloz,male,23-02-1966,Switzerland,University of Geneva,Switzerland
+2019,physics,4,Michel Mayor,male,12/1/1942,Switzerland,University of Geneva,Switzerland
+2019,medicine,3,Peter Ratcliffe,male,14-05-1954,United Kingdom,University of Oxford,United Kingdom
+2018,literature,1,Olga Tokarczuk,female,29-01-1962,Poland,,
+2018,peace,2,Nadia Murad,female,1993-00-00,Iraq,,
+2018,peace,2,Denis Mukwege,male,1/3/1955,Democratic Republic of the Congo,,
+2018,physics,4,Donna Strickland,female,27-05-1959,Canada,University of Waterloo,Canada
+2018,physics,2,Arthur Ashkin,male,2/9/1922,USA,Bell Laboratories,USA
+2018,medicine,2,Tasuku Honjo,male,27-01-1942,Japan,Kyoto University,Japan
+2018,medicine,2,James P. Allison,male,7/8/1948,USA,Parker Institute for Cancer Immunotherapy,USA
+2017,literature,1,Kazuo Ishiguro,male,8/11/1954,Japan,,
+2017,chemistry,3,Joachim Frank,male,12/9/1940,Germany,Columbia University,USA
+2017,chemistry,3,Jacques Dubochet,male,8/6/1942,Switzerland,University of Lausanne,Switzerland
+2017,physics,2,Rainer Weiss,male,29-09-1932,Germany,LIGO/VIRGO Collaboration,
+2017,medicine,3,Michael W. Young,male,28-03-1949,USA,Rockefeller University,USA
+2017,medicine,3,Michael Rosbash,male,7/3/1944,USA,Brandeis University,USA
+2017,medicine,3,Jeffrey C. Hall,male,3/5/1945,USA,University of Maine,USA
+2016,peace,1,Juan Manuel Santos,male,10/8/1951,Colombia,,
+2016,literature,1,Bob Dylan,male,24-05-1941,USA,,
+2016,chemistry,3,Jean-Pierre Sauvage,male,21-10-1944,France,University of Strasbourg,France
+2016,physics,4,J. Michael Kosterlitz,male,22-06-1943,United Kingdom,Brown University,USA
+2016,physics,2,David J. Thouless,male,21-09-1934,United Kingdom,University of Washington,USA
+2016,medicine,1,Yoshinori Ohsumi,male,9/2/1945,Japan,Tokyo Institute of Technology,Japan
+2015,economics,1,Angus Deaton,male,19-10-1945,Scotland,Princeton University,USA
+2015,literature,1,Svetlana Alexievich,female,31-05-1948,Ukraine,,
+2015,chemistry,3,Aziz Sancar,male,8/9/1946,Turkey,University of North Carolina,USA
+2015,chemistry,3,Tomas Lindahl,male,28-01-1938,Sweden,Francis Crick Institute,United Kingdom
+2015,physics,2,Arthur B. McDonald,male,29-08-1943,Canada,Queen's University,Canada
+2015,physics,2,Takaaki Kajita,male,9/3/1959,Japan,University of Tokyo,Japan

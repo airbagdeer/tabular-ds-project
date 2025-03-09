@@ -1,0 +1,69 @@
+name,year,yearly_views,category,prizeShare,gender,born,bornCountry,organizationName,organizationCountry
+Claudia Goldin,2023,130220,economics,1,female,1946-00-00,USA,Harvard University,USA
+Narges Mohammadi,2023,107456,peace,1,female,21-04-1972,Iran,,
+Jon Fosse,2023,143957,literature,1,male,29-09-1959,Norway,,
+Moungi Bawendi,2023,58788,chemistry,3,male,1961-00-00,France,Massachusetts Institute of Technology (MIT),USA
+Ferenc Krausz,2023,57379,physics,3,male,17-05-1962,Hungary,Max Planck Institute of Quantum Optics,Germany
+Pierre Agostini,2023,51615,physics,3,male,23-07-1941,Tunisia,The Ohio State University,USA
+Drew Weissman,2023,118649,medicine,2,male,7/9/1959,USA,Penn Institute for RNA Innovations University of Pennsylvania,USA
+Alain Aspect,2022,72172,physics,3,male,15-06-1947,France,Institut d'Optique Graduate School - Universite Paris-Saclay,France
+Douglas Diamond,2022,35979,economics,3,male,25-10-1953,USA,University of Chicago,USA
+Ben Bernanke,2022,196248,economics,3,male,13-12-1953,USA,The Brookings Institution,USA
+Ales Bialiatski,2022,47940,peace,3,male,25-09-1962,Russia,,
+Annie Ernaux,2022,259916,literature,1,female,1/9/1940,France,,
+Carolyn Bertozzi,2022,43546,chemistry,3,female,10/10/1966,USA,Stanford University,USA
+Anton Zeilinger,2022,68480,physics,3,male,20-05-1945,Austria,University of Vienna,Austria
+John Clauser,2022,77248,physics,3,male,1/12/1942,USA,J.F. Clauser & Assoc.,USA
+Benjamin List,2021,51798,chemistry,2,male,11/1/1968,Germany,Max Planck Institute for Coal Research,Germany
+Guido Imbens,2021,54178,economics,4,male,3/9/1963,the Netherlands,Stanford University,USA
+Joshua Angrist,2021,54349,economics,4,male,18-09-1960,USA,Massachusetts Institute of Technology (MIT),USA
+David Card,2021,68683,economics,2,male,1956-00-00,Canada,University of California,USA
+Dmitry Muratov,2021,80374,peace,2,male,1961-00-00,Russia,,
+Maria Ressa,2021,173062,peace,2,female,2/10/1963,Philippines,,
+Abdulrazak Gurnah,2021,209498,literature,1,male,1948-00-00,Tanzania,,
+David MacMillan,2021,52078,chemistry,2,male,16-03-1968,United Kingdom,Princeton University,USA
+Giorgio Parisi,2021,91203,physics,2,male,4/8/1948,Italy,Sapienza University of Rome,Italy
+Klaus Hasselmann,2021,53450,physics,4,male,25-10-1931,Germany,Max Planck Institute for Meteorology,Germany
+Syukuro Manabe,2021,67754,physics,4,male,21-09-1931,Japan,Princeton University,USA
+Ardem Patapoutian,2021,80806,medicine,2,male,1967-00-00,Lebanon,Scripps Research,USA
+David Julius,2021,76901,medicine,2,male,4/11/1955,USA,University of California,USA
+Paul Milgrom,2020,93511,economics,2,male,20-04-1948,USA,Stanford University,USA
+Emmanuelle Charpentier,2020,180695,chemistry,2,female,11/12/1968,France,Max Planck Unit for the Science of Pathogens,Germany
+Reinhard Genzel,2020,69983,physics,4,male,24-03-1952,Germany,Max Planck Institute for Extraterrestrial Physics,Germany
+Roger Penrose,2020,418564,physics,2,male,8/8/1931,United Kingdom,University of Oxford,United Kingdom
+Michael Houghton,2020,1075,medicine,3,male,1949-00-00,United Kingdom,University of Alberta,Canada
+Michael Kremer,2019,71972,economics,3,male,12/11/1964,USA,Harvard University,USA
+Esther Duflo,2019,267902,economics,3,female,25-10-1972,France,Massachusetts Institute of Technology (MIT),USA
+Abhijit Banerjee,2019,368591,economics,3,male,21-02-1961,India,Massachusetts Institute of Technology (MIT),USA
+Peter Handke,2019,194416,literature,1,male,6/12/1942,Austria,,
+Akira Yoshino,2019,57535,chemistry,3,male,30-01-1948,Japan,Asahi Kasei Corporation,Japan
+M. Stanley Whittingham,2019,48563,chemistry,3,male,22-12-1941,United Kingdom,Binghamton University State University of New York,USA
+Didier Queloz,2019,52245,physics,4,male,23-02-1966,Switzerland,University of Geneva,Switzerland
+Michel Mayor,2019,58213,physics,4,male,12/1/1942,Switzerland,University of Geneva,Switzerland
+Peter Ratcliffe,2019,6690,medicine,3,male,14-05-1954,United Kingdom,University of Oxford,United Kingdom
+Olga Tokarczuk,2018,48686,literature,1,female,29-01-1962,Poland,,
+Nadia Murad,2018,207182,peace,2,female,1993-00-00,Iraq,,
+Denis Mukwege,2018,212995,peace,2,male,1/3/1955,Democratic Republic of the Congo,,
+Donna Strickland,2018,218008,physics,4,female,27-05-1959,Canada,University of Waterloo,Canada
+Arthur Ashkin,2018,98499,physics,2,male,2/9/1922,USA,Bell Laboratories,USA
+Tasuku Honjo,2018,76672,medicine,2,male,27-01-1942,Japan,Kyoto University,Japan
+James P. Allison,2018,108806,medicine,2,male,7/8/1948,USA,Parker Institute for Cancer Immunotherapy,USA
+Kazuo Ishiguro,2017,579930,literature,1,male,8/11/1954,Japan,,
+Joachim Frank,2017,44767,chemistry,3,male,12/9/1940,Germany,Columbia University,USA
+Jacques Dubochet,2017,37810,chemistry,3,male,8/6/1942,Switzerland,University of Lausanne,Switzerland
+Rainer Weiss,2017,91132,physics,2,male,29-09-1932,Germany,LIGO/VIRGO Collaboration,
+Michael W. Young,2017,55187,medicine,3,male,28-03-1949,USA,Rockefeller University,USA
+Michael Rosbash,2017,59614,medicine,3,male,7/3/1944,USA,Brandeis University,USA
+Jeffrey C. Hall,2017,68535,medicine,3,male,3/5/1945,USA,University of Maine,USA
+Juan Manuel Santos,2016,229130,peace,1,male,10/8/1951,Colombia,,
+Bob Dylan,2016,2428917,literature,1,male,24-05-1941,USA,,
+Jean-Pierre Sauvage,2016,49442,chemistry,3,male,21-10-1944,France,University of Strasbourg,France
+J. Michael Kosterlitz,2016,18135,physics,4,male,22-06-1943,United Kingdom,Brown University,USA
+David J. Thouless,2016,85290,physics,2,male,21-09-1934,United Kingdom,University of Washington,USA
+Yoshinori Ohsumi,2016,110624,medicine,1,male,9/2/1945,Japan,Tokyo Institute of Technology,Japan
+Angus Deaton,2015,176308,economics,1,male,19-10-1945,Scotland,Princeton University,USA
+Svetlana Alexievich,2015,232034,literature,1,female,31-05-1948,Ukraine,,
+Aziz Sancar,2015,145775,chemistry,3,male,8/9/1946,Turkey,University of North Carolina,USA
+Tomas Lindahl,2015,62762,chemistry,3,male,28-01-1938,Sweden,Francis Crick Institute,United Kingdom
+Arthur B. McDonald,2015,82540,physics,2,male,29-08-1943,Canada,Queen's University,Canada
+Takaaki Kajita,2015,71235,physics,2,male,9/3/1959,Japan,University of Tokyo,Japan
